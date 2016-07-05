@@ -1,0 +1,40 @@
+.div1{
+  position:relative;
+  top: 10px;
+  height: 500px;
+  width: 500px;
+  margin: auto;
+  background-color: grey;
+}
+.div11{
+  position:relative;
+  top: 50px;
+  left: 50px;
+  height: 200px;
+  width: 400px;
+  background-color: blue;
+}
+.div12{
+  position:relative;
+  top: 75px;
+  left: 50px;
+  height: 200px;
+  width: 400px;
+  background-color: blue;
+}
+.div111{
+  position:relative;
+  top: 25px;
+  left: 25px;
+  height: 150px;
+  width: 125px;
+  background-color: orange;
+}
+.div112{
+  position:absolute;
+  top: 25px;
+  left: 200px;
+  height: 150px;
+  width: 125px;
+  background-color: orange;
+}
